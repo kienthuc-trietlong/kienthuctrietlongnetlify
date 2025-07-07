@@ -1,4 +1,4 @@
-# SkinnyCare - Dự án Web Tĩnh
+# SkinnyBeauty - Dự án Web Tĩnh
 
 Một dự án web tĩnh đơn giản với nhiều trang HTML độc lập, được thiết kế để upload lên GitHub Pages.
 
@@ -22,7 +22,7 @@ Một dự án web tĩnh đơn giản với nhiều trang HTML độc lập, đ�
 - **Animations**: Hiệu ứng chuyển động mượt mà
 - **Scroll to Top**: Nút cuộn lên đầu trang
 - **GitHub Pages Ready**: Sẵn sàng upload lên GitHub Pages
-- **SkinnyCare Brand**: Thương hiệu chuyên về chăm sóc sắc đẹp
+- **SkinnyBeauty Brand**: Thương hiệu chuyên về chăm sóc sắc đẹp
 
 ## 🚀 Cách sử dụng
 
